@@ -1,0 +1,16 @@
+.picture{
+
+    width: 90%;
+    height: 200px;
+
+}
+
+body{
+  background-color: rgb(74, 248, 239) !important;
+}
+
+nav {
+
+      padding-left: 40% !important;
+  
+}
